@@ -18,7 +18,7 @@
 # :technologist: Debasish Biswas
 
 I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
-- :telescope: I’m currently securing the software supply chain at Chainguard.
+- :telescope: Currently Maintaining Wolfi-Os at Chainguard.
 
 - :computer: Google Summer of Code 2023 @Knative under @CNCF
 
